@@ -118,13 +118,13 @@ a:hover{
 .PostName{
     text-decoration: none;
     font-size: 2em;
-    color: Green;
+    color: Red;
     font-family: Century;
 }
 
 .postName:hover{
     text-decoration: none;
-    color: Green;
+    color: Red;
 }
 
 .Poster{
