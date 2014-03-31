@@ -1,0 +1,9 @@
+2014-04-01
+../post/Post201404010038.html
+i finish it
+00:38
+14
+The QtCore module contains the core non-gui functionality. This module is used for working with time, files and directories, various data types, s
+treams, urls, mime types, threads or processes. The QtGui module contains the graphical components and related classes. These inc
+
+lude for example buttons, windows, status bars, toolbars, sliders, bitmaps
