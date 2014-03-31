@@ -1,9 +1,9 @@
-2014-03-29
+2014-03-31
 ../post/Post201403291729.html
-test1 n345
-17:29
-14
-There are so
-me specialized types of model alr
-eady created for you. For exam
-ple, the QStandardIte
+te56333
+23:28
+13
+PyQt4 is implemented 
+as a set of Python modules
+. It has over 400 classes and almost 6000 functio
+s and methods. It is a multiplatform 
