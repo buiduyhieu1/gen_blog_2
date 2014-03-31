@@ -1,8 +1,8 @@
-2014-03-31
+2014-04-01
 ../post/Post201403312350.html
 hello there
-23:50
-15
+00:40
+19
 The QtCore module contain
 s the core non-gui functionality. This module is used for workin
 g with time, files and directories, various data types, streams, urls, mime types, threads or processes. The QtGui module contains the graph
