@@ -1,9 +1,0 @@
-2014-03-31
-../post/Post201403291729.html
-te56333
-23:28
-13
-PyQt4 is implemented 
-as a set of Python modules
-. It has over 400 classes and almost 6000 functio
-s and methods. It is a multiplatform 

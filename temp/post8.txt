@@ -1,9 +1,0 @@
-2014-03-28
-../post/Post201403281930.html
-len github nao
-19:30
-9
-Heya
-
-I'm trying to get a list of items from 1 listview and add them to another listview and then use it in rest of my script. 
-

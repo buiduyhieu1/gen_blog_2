@@ -1,9 +1,9 @@
 2014-03-28
-../post/Post201403281904.html
-why done
-19:04
-9
-In our last instalment,
- we discussed Qt's QListWidget class, which allows the user to make simple single-column list boxes. For more advanced list controls, however, a more fl
-exible widget is required; for that reason, Qt supplies the QListView widget, which allows more varied items to be created. It is a pure presentation widget, which displays information pro
-vided by a data model. This separates the logic of the data being presented from the widget that does the presentation; there are multiple widgets that can display data from the same model structures.
+../post/Post201403281920.html
+finaly finaly test 
+19:20
+8
+In our last instalment
+, we discussed Qt's QListWidget class, which allows the user to make simple single-column list boxes. For more advanced list controls, however, a more flexible widget is required; for that reason, Qt supplies the QListView dwidget, which allows more varied items to be create. It is a 
+pure presentation widget, which displays information provided by a data model. This separates the logic of the data being presented f
+rom the widget that does the presentation; there are multiple widgets that can display data from the same model structures.

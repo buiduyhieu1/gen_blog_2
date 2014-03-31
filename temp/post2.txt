@@ -1,7 +1,7 @@
 2014-03-28
-../post/Post201403281827.html
-mia no sao vay nhi
-18:27
+../post/Post201403281857.html
+post dau tien ne
+18:57
 9
 In our last instalment,
  we discussed Qt's QListWidget class, which allows the user to make simple single-column list boxes. For more advanced list controls, however, a more fl
