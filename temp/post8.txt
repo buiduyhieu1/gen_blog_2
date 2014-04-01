@@ -1,0 +1,9 @@
+2014-04-01
+../post/Post201404010331.html
+hello2world
+03:31
+12
+This is a simple exa
+mple showing a small window. Yet we can do a lot with this window. We can resize it, maximize it or minimize it. This requires a lot of coding. So
+
+meone already coded this func
